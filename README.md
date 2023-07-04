@@ -20,4 +20,4 @@ Project dự báo thời tiết tại một địa điểm bằng cách sử d�
 * Nhóm đã lưu các đánh giá dưới dạng hình ảnh trong folder `image`
 
 ### Thông tin liên lạc:
-* Email: nam.vh204592@gmail.com
+* Email: hoainam.nv34@gmail.com
